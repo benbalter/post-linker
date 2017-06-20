@@ -1,6 +1,6 @@
-# {{ name }}
+# Post linker
 
-> a GitHub Integration built with [probot](https://github.com/probot/probot) that {{ description }}
+*A GitHub Integration built with [probot](https://github.com/probot/probot) that Links merged pull requests to live GitHub Pages posts*
 
 ## Setup
 

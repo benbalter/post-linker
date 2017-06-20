@@ -1,7 +1,7 @@
 {
   "name": "post-linker",
   "version": "1.0.0",
-  "description": "Links merged PRs to live GitHub Pages posts",
+  "description": "Links merged pull requests to live GitHub Pages posts",
   "author": "Ben Balter",
   "license": "MIT",
   "repository": "https://github.com/benbalter/post-linker",
